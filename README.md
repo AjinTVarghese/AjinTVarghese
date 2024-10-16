@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajin T Varghese</h1>
-<h3 align="center">A Data-driven professional extracting insights to power business success.</h3>
+<h2 align="center">A Data-driven professional extracting insights to power business success.</h2>
 
 
 ### - 🔭 I’m currently working on Machine Learning and AI.<br>
