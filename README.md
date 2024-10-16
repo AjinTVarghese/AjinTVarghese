@@ -2,15 +2,15 @@
 <h3 align="center">A Data-driven professional extracting insights to power business success.</h3>
 
 
-- 🔭 I’m currently working on Machine Learning and AI.<br>
+### - 🔭 I’m currently working on Machine Learning and AI.<br>
 
-- 🌱 I’m currently learning Data Science Tools.<br>
+### - 🌱 I’m currently learning Data Science Tools.<br>
 
-- 👯 I’m looking to collaborate on Data Science & Machine Learning Projects.<br>
+### - 👯 I’m looking to collaborate on Data Science & Machine Learning Projects.<br>
 
-- 👨‍💻 All of my projects are available at https://github.com/AjinTVarghese<br>
+### - 👨‍💻 All of my projects are available at https://github.com/AjinTVarghese<br>
 
-- ⚡ Fun fact Sea views over Mountain vistas!
+### - ⚡ Fun fact Sea views over Mountain vistas!
 
 
 <p align="left">
