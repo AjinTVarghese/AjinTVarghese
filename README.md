@@ -10,9 +10,9 @@
 <h3>• 👨‍💻 All of my projects are available at https://github.com/AjinTVarghese</h3>
 
 <h3>• ⚡ Fun fact Ocean Views over Mountain Vistas! </h3>
+<br>
 
-
-
+##
 <p align="left">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AjinTVarghese&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinTVarghese&layout=compact&theme=highcontrast&langs_count=6" />
